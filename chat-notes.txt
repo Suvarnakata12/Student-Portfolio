@@ -1,0 +1,30 @@
+GIT & GITHUB PRACTICAL — MY COMMANDS
+
+1. Check Git version:
+   git --version
+
+2. Initialize repository:
+   git init
+
+3. Check repository status:
+   git status
+
+4. Stage all files:
+   git add .
+
+5. Create initial commit:
+   git commit -m "Initial commit"
+
+6. View commit history:
+   git log --oneline
+
+7. Rename branch to main:
+   git branch -M main
+
+8. View branches:
+   git branch
+
+CURRENT STATUS:
+Initial commit completed successfully.
+Branch renamed to main.
+Working tree was clean.
