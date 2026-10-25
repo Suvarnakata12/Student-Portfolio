@@ -16,3 +16,4 @@
 
 Note: Describe Project 2 as proposed or ongoing unless you have
 actually completed it.
+Assessment update: Project descriptions include problems, solutions, technologies, contributions, and possible improvements.
