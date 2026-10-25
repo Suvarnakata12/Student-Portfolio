@@ -1,8 +1,10 @@
 # Education
 
-- Course: Add your actual course
-- Institution: Add your institution
-- Academic Year: Add your academic year
+- Course: B.sc Forensic Science
+- Institution: Aditya University
+- Academic Year: 2nd year
 
 ## Achievements
-Add genuine achievements and certifications here.
+Handball National player
+Learning Git and GitHub version control.
+Practiced creating repositories, commits, branches, and pull requests.

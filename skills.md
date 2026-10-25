@@ -10,3 +10,9 @@
 - Improve programming skills
 - Learn version control
 - Build practical projects
+
+## Certifications
+
+* Git and GitHub Basics — Learning / In Progress
+* Practised repository creation, commits, branching, pushing, and pull requests.
+
